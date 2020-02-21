@@ -1,0 +1,5 @@
+iris-types.png
+https://gadictos.com/iris-data-classification-using-neural-net/
+
+iris_petal_sepal.png
+https://holgerbrandl.github.io/kotlin4ds_kotlin_night_frankfurt/krangl_example_report.html
